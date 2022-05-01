@@ -1,5 +1,11 @@
 # WeatherBox ⛅
+
+## About
 **Simple Weather App By Using OpenWeatherMap API & Custom Icons.**
+
+## Screenshot
+![Screenshot](https://user-images.githubusercontent.com/91307601/166142269-185b829d-ee9f-4ee5-9c1f-8aa5ccdc661e.jpg)
+
 <br>
 </br>
 <br>
