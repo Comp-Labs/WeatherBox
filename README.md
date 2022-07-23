@@ -1,13 +1,12 @@
-# WeatherBox ⛅
+# WeatherBox
 
 ## About
+
 **Simple Weather App By Using OpenWeatherMap API & Custom Icons.**
-<br>
-<br>
-[CodePen🧑🏻‍💻](https://codepen.io/rudrasen2/pen/gOoQojr)
 
 ## Screenshot 🖼️
-![Screenshot](https://user-images.githubusercontent.com/91307601/166142269-185b829d-ee9f-4ee5-9c1f-8aa5ccdc661e.jpg)
+
+<img src="https://api.microlink.io?url=https%3A%2F%2Fweatherbox.complabs.in&overlay.browser=dark&screenshot=true&meta=false&embed=screenshot.url"></img>
 
 <br>
 </br>
