@@ -6,7 +6,7 @@
 
 ## Screenshot 🖼️
 
-<img src="https://api.microlink.io?url=https%3A%2F%2Fweatherbox.complabs.in&overlay.browser=dark&screenshot=true&meta=false&embed=screenshot.url"></img>
+<img src="https://api.microlink.io?url=https%3A%2F%2Fweatherbox.techfiddle.io&overlay.browser=dark&screenshot=true&meta=false&embed=screenshot.url"></img>
 
 <br>
 </br>
