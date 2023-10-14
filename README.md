@@ -16,7 +16,7 @@
 <footer>
   <p align="center" style="font-size: smaller;">
     <b>
-    Copyright © WeatherBox. Made with <span>❤</span> by <a href="https://complabs.in" target="_blank">The Comp Labs Team</a>.
+    Copyright © WeatherBox. Made with <span>❤</span> by <a href="https://techfiddle.io" target="_blank">The Tech Fiddle Team</a>.
     </b>
   </p>
 </footer>
